@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vicy2001
+- 🌱 I’m currently learning to code in Java
+- 👩🏼‍💻 I study computer science
+- 🇦🇹 I am from Vienna, Austria
